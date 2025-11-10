@@ -39,8 +39,9 @@ public class flipkartTest {
 				break;
 			}
 		}
-		driver.quit();
+		
 		}
+	
 	
 }
 		
